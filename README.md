@@ -1,4 +1,4 @@
-# Desafio de Testes Unitários com C# - DIO ![iconeDIO](Imagens/dio.png)
+# Desafio de Testes Unitários com C# - DIO ![iconeDIO](Imagens/dioicon.png)
 Repositório desenvolvido para o desafio de projeto do bootcamp Decola Tech Avanade da [Digital Innovation One](https://www.dio.me)
 
 ## Contexto
