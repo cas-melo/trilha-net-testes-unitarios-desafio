@@ -19,7 +19,7 @@ O seu objetivo é implementar os métodos de testes contidos no projeto.
 
 ## Documentação
 
-A documentação com explicação das classes criadas para o desafio se encontra no [repositório original](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio)
+A documentação com explicação das classes criadas para o desafio se encontra no [repositório original](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio).
 
 ## Solução
 
