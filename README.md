@@ -1,7 +1,7 @@
 ![iconeDIO](Imagens/dioicon.png)
 
 # Desafio de Testes Unitários com C#
-Repositório desenvolvido para o desafio de projeto do bootcamp Decola Tech Avanade da [Digital Innovation One](https://www.dio.me)
+Repositório desenvolvido para o desafio de projeto do bootcamp Decola Tech Avanade da [Digital Innovation One](https://www.dio.me).
 
 ## Contexto
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
